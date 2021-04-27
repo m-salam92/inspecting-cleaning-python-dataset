@@ -43,8 +43,13 @@ I have built a sample Employee Database Dataset consisting of few sample rows. H
 - Emp_State: State Employee resides in
 
 
-#Assessment 1: Load Employee CSV File into Python DataFrame (df)
+# Assessment 1: Load Employee CSV File into Python DataFrame (df)
 
+Now that you have installed and loaded pandas, store your csv file into a python dataframe. You will see the solution below. 
 
+![image](https://user-images.githubusercontent.com/83152100/116190217-379bf500-a6f8-11eb-8b59-19b21af8efba.png)
+
+Note: It is a good idea to set encoding = 'unicode_escape' uses a string that is suitable as Unicode literal in Python source code in case your csv has other characters. 
+df.head() will provide you the first 5 rows of data. 
 
 
