@@ -16,6 +16,21 @@ As you can see in the graphic, 60% of the time Data Scientist are spending clean
 Now that I have gotten you really excited to start lets get our hands dirty and get to it!
 
 
+# Install Python IDE 
+
+You will first need to install Anaconda Navigator to use Python Jupyter Notebooks. Jupyter notebooks is great for Data Analysis, Data Manipulation, Data Cleansing etc. Here is a link to download Anaconda: https://www.anaconda.com/products/individual 
+
+
+# Install Packages 
+
+Python has many built in modules that allow programmers to perform certain functions. Pandas and Numpy are two of the best packages known for data analysis. You can learn more about python if you visit this link: https://pandas.pydata.org/ 
+
+Below you will find a few lines of code to install and load Pandas package 
+
+
+
+
+
 # Data Exploration 
 
 I have built a sample Employee Database Dataset consisting of few sample rows. Here are the following Data Attributes. 
@@ -29,6 +44,6 @@ I have built a sample Employee Database Dataset consisting of few sample rows. H
 - Emp_State: State Employee resides in
 
 
-# Data Ingest 
+ 
 
 
