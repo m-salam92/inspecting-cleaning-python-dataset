@@ -74,4 +74,16 @@ You simply do this by one line of code: df.isnull()
 
 There is only one 'True' missing value in my dataframe which is the employee level in row 8. 
 
+# Assessment 5: Finding Duplicate Data
 
+We now run a simple command 'df.duplicated()' to show us where there may be duplicated entries, we find one in row 2/3.
+
+![image](https://user-images.githubusercontent.com/83152100/116192151-72535c80-a6fb-11eb-882c-b9845d4bf9d5.png)
+ 
+ We then run the 'df.drop_duplicates()' command to drop the duplicate value 
+ 
+ ![image](https://user-images.githubusercontent.com/83152100/116192307-aaf33600-a6fb-11eb-8897-167e108594f9.png)
+
+Now as you can see, David Jackson is only coming in once! 
+ 
+ 
