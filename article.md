@@ -86,4 +86,11 @@ We now run a simple command 'df.duplicated()' to show us where there may be dupl
 
 Now as you can see, David Jackson is only coming in once! 
  
+ # Assessment 6: Data Type and Ensure Data is properly encoded 
  
+ Lastly, we want to make sure we know what the data type is coming in for each column. 
+ 
+ We notice that Emp_Salary is coming in as an int.. We want to change that to a float to make sure there is some flexibility as salary can range into decimal numbers so we do that converting it using the code df["Emp_Salary"].astype(float) 
+ 
+ ![image](https://user-images.githubusercontent.com/83152100/116193371-3caf7300-a6fd-11eb-9b6d-8f6af2b0ed10.png)
+
