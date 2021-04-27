@@ -96,5 +96,5 @@ Now as you can see, David Jackson is only coming in once!
 
 # Conclusion 
 
-I hope you were able to pick up some basic data manipulation/data cleansing/data ingesting techniques with me. Stay tuned for additional walkthroughs of working with data. I love using the pandas package, it is a very powerful tool that allow for many functions with simple lines of code as you may have seen. 
+I hope you were able to pick up some basic data manipulation/data cleansing/data ingesting techniques with me. Stay tuned for additional walkthroughs of working with data. I love using the pandas package, it's an extremely powerful tool that allows for many built in functions. 
 
