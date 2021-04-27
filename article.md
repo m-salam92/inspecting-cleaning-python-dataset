@@ -94,3 +94,7 @@ Now as you can see, David Jackson is only coming in once!
  
  ![image](https://user-images.githubusercontent.com/83152100/116193371-3caf7300-a6fd-11eb-9b6d-8f6af2b0ed10.png)
 
+# Conclusion 
+
+I hope you were able to pick up some basic data manipulation/data cleansing/data ingesting techniques with me. Stay tuned for additional walkthroughs of working with data. I love using the pandas package, it is a very powerful tool that allow for many functions with simple lines of code as you may have seen. 
+
