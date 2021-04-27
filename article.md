@@ -49,7 +49,7 @@ Now that you have installed and loaded pandas, store your csv file into a python
 
 ![image](https://user-images.githubusercontent.com/83152100/116190217-379bf500-a6f8-11eb-8b59-19b21af8efba.png)
 
-Note: It is a good idea to set encoding = 'unicode_escape' uses a string that is suitable as Unicode literal in Python source code in case your csv has other characters. 
+Note: It is a good idea to set encoding = 'unicode_escape'; this uses a string that is suitable as Unicode literal in Python source code in case your csv has other characters. 
 df.head() will provide you the first 5 rows of data. 
 
 
