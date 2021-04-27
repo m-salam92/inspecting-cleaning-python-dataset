@@ -43,7 +43,8 @@ I have built a sample Employee Database Dataset consisting of few sample rows. H
 - Emp_State: State Employee resides in
 
 
-# Assessment 1: Load Employee CSV File into Python DataFrame (df)
+# Assessment 1: Reading a CSV Data File into a Python DataFrame (df)
+# Assessment 2: Printing and Inspecting a subset of data 
 
 Now that you have installed and loaded pandas, store your csv file into a python dataframe. You will see the solution below. 
 
@@ -52,4 +53,12 @@ Now that you have installed and loaded pandas, store your csv file into a python
 Note: It is a good idea to set encoding = 'unicode_escape'; this uses a string that is suitable as Unicode literal in Python source code in case your csv has other characters. 
 df.head() will provide you the first 5 rows of data. 
 
+# Assessment 3: Determining the number of rows/columns into a tabular dataset
 
+![image](https://user-images.githubusercontent.com/83152100/116191125-c8270500-a6f9-11eb-86aa-e6a1434cbd76.png)
+
+We first set the length equal to our rows and columns variable then we print it. 
+At the bottom of the image you can see: 
+
+Number of Rows= 10
+Number of Columns = 7
