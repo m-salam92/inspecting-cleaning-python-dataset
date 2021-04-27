@@ -27,8 +27,7 @@ Python has many built in modules that allow programmers to perform certain funct
 
 Below you will find a few lines of code to install and load Pandas package 
 
-
-
+![image](https://user-images.githubusercontent.com/83152100/116189529-125ab700-a6f7-11eb-9071-3a56057a96be.png)
 
 
 # Data Exploration 
@@ -44,6 +43,8 @@ I have built a sample Employee Database Dataset consisting of few sample rows. H
 - Emp_State: State Employee resides in
 
 
- 
+#Assessment 1: Load Employee CSV File into Python DataFrame (df)
+
+
 
 
