@@ -1,0 +1,11 @@
+Emp_ID,First_Name,Last_Name,Emp_Lvl,Emp_Dept,Emp_Salary,Emp_State
+500,John,Thomposon ,1,Sales,90000,VA
+501,Bill ,Blank,1,Finance,85000,MD
+502,David,Jackson,0,Technology ,110000,VA
+502,David,Jackson,0,Technology ,110000,VA
+503,Jill ,Jacobs,3,HR,120000,CA
+504,Michele ,An,4,Cyber ,145000,WA
+505,Lauren,Friedman,5,HR,150000,NY
+506,Amir,Khan,6,Technology ,170000,NJ
+507,Jake ,Paul,,Technology ,175000,Nj
+508%,Matt,Ryan,7,HR,190000,NY
