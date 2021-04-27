@@ -55,6 +55,8 @@ df.head() will provide you the first 5 rows of data.
 
 # Assessment 3: Determining the number of rows/columns into a tabular dataset
 
+We will now try to find how many rows/columns exist in my employee dataset
+
 ![image](https://user-images.githubusercontent.com/83152100/116191125-c8270500-a6f9-11eb-86aa-e6a1434cbd76.png)
 
 We first set the length equal to our rows and columns variable then we print it. 
@@ -62,3 +64,14 @@ At the bottom of the image you can see:
 
 Number of Rows= 10
 Number of Columns = 7
+
+# Assessment 4: Finding Missing Data 
+
+Now, we will determine whether or not this df has missing values. 
+You simply do this by one line of code: df.isnull()
+
+![image](https://user-images.githubusercontent.com/83152100/116191634-ab3f0180-a6fa-11eb-8763-b882c32fa7a5.png)
+
+There is only one 'True' missing value in my dataframe which is the employee level in row 8. 
+
+
